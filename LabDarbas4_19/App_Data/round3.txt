@@ -1,0 +1,42 @@
+﻿3
+2023-04-23
+Tiffany;Reed;Team D;Top;Darius;7;2;9
+Jovanny;Robles;Team D;Mid;Cassiopeia;7;2;6
+Evelyn;Brown;Team G;18;22;M4A1-S
+Sierra;Hansen;Team B;Top;Poppy;3;6;5
+Madison;Garcia;Team E;21;12;P90
+Harper;Adams;Team H;21;20;P90
+Oliver;Hernandez;Team G;17;23;Galil AR
+Talia;Davies;Team D;ADC;Senna;9;1;3
+Jayson;Burns;Team C;ADC;Jinx;9;2;2
+Aubree;Gonzalez;Team C;Support;Braum;2;1;10
+Emilia;Beck;Team B;Support;Nami;1;2;12
+Ethan;Erickson;Team C;Jungle;Graves;3;5;7
+Karter;Pena;Team B;Mid;Yone;6;4;3
+Jacob;Lee;Team E;20;19;M4A4
+Brentley;King;Team A;Mid;Syndra;5;3;7
+Ethan;Davis;Team F;20;22;M4A1-S
+Avery;Martinez;Team F;25;16;M4A4
+Logan;Nelson;Team H;28;12;AWP
+Mia;Green;Team H;25;16;AK-47
+Jamison;Manning;Team A;Support;Soraka;1;3;13
+Sincere;Serrano;Team C;Top;Fiora;5;5;4
+Aria;King;Team G;27;14;AWP
+Aaliyah;Scott;Team G;22;15;Desert Eagle
+Reagan;Diaz;Team D;Support;Leona;1;5;12
+Sofia;Wilson;Team F;29;7;SG 553
+Aliyah;Fisher;Team A;ADC;Varus;10;3;0
+Jorge;Haynes;Team D;Jungle;Taliyah;4;4;11
+Kaitlyn;Grant;Team A;Top;Gnar;6;4;8
+Noah;Anderson;Team F;18;23;Glock-18
+Landon;Baker;Team H;14;25;Glock-18
+William;Lopez;Team G;23;16;AK-47
+Liam;Smith;Team E;24;16;Desert Eagle
+Emmanuel;Acevedo;Team B;Jungle;Rek'Sai;4;6;5
+Chloe;Thomas;Team F;23;19;USP-S
+Emily;Miller;Team E;27;14;Desert Eagle
+Breanna;Pham;Team B;ADC;Ashe;7;3;4
+Maddison;Mclean;Team A;Jungle;Kha'Zix;2;7;10
+Abigail;Johnson;Team E;32;11;AWP
+Liliana;Gonzalez;Team C;Mid;Akali;6;1;8
+Ethan;Taylor;Team H;19;23;P90

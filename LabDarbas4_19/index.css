@@ -1,0 +1,102 @@
+﻿:root {
+    --background-color: #121212;
+    --background-color-secondary: #292929;
+    --green: #65D46E;
+    --text-color: #FFFFFF;
+    --font-family: Bahnschrift;
+    --font-size-main: 16px;
+    --font-size-big: 24px;
+    --border-color: #343434;
+    --radius-big: 24px;
+    --radius-small: 16px;
+}
+
+html {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+    font-size: var(--font-size-main);
+}
+
+.tournament {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+
+.tournament__first-half-container, .tournament__second-half-container {
+    width: 50%;
+    padding: 16px;
+}
+
+.tournament__input-container {
+    max-width: 200px;
+    margin: auto;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-big);
+    padding: 16px;
+    background-color: var(--background-color-secondary);
+}
+
+.padding-bottom {
+    margin-bottom: 60px;
+}
+
+.tournament__textbox-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tournament__button-container {
+    text-align: center;
+    padding: 15px;
+    padding-bottom: 5px;
+}
+
+.tournament__data-container {
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-big);
+    max-width: 960px;
+    padding: 16px;
+    margin: 24px auto;
+}
+
+.tournament__data-text-container {
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.tournament__button {
+    width: 150px;
+    filter: drop-shadow(0px 0px 12px rgba(0, 0, 0, 0.1));
+    background-color: var(--green);
+    border: none;
+    border-radius: var(--radius-small);
+    font-family: var(--font-family);
+    font-size: var(--font-size-main);
+}
+
+.tournament__textbox {
+    max-width: 40px;
+}
+
+.tournament__label {
+    font-size: var(--font-size-big);
+}
+
+#BestPlayers {
+    margin-top: 15px;
+}
+
+.tournament__table {
+    margin: auto;
+    text-align: center;
+    background-color: var(--background-color-secondary);
+    border-radius: var(--radius-small);
+    padding: 16px;
+}
+
+th, td {
+    padding: 4px;
+}

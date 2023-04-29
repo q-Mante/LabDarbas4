@@ -1,0 +1,188 @@
+Ratas 1
+-------------------------------------------------------------------------------------------------------------------
+| Aaliyah         | Scott           | Team G               |            | Desert Eagle    |    19 |    12 |       | 
+| Ethan           | Taylor          | Team H               |            | M4A4            |    16 |    20 |       | 
+| Mia             | Green           | Team H               |            | AK-47           |    22 |    13 |       | 
+| Ethan           | Davis           | Team F               |            | M4A1-S          |    19 |    18 |       | 
+| Aliyah          | Fisher          | Team A               | ADC        | Jinx            |    10 |     0 |     3 |
+| Sierra          | Hansen          | Team B               | Top        | Malphite        |     3 |     5 |     6 |
+| Emily           | Miller          | Team E               |            | AK-47           |    23 |    14 |       | 
+| Avery           | Martinez        | Team F               |            | AK-47           |    22 |    15 |       | 
+| Oliver          | Hernandez       | Team G               |            | Galil AR        |    14 |    20 |       | 
+| Jorge           | Haynes          | Team D               | Jungle     | Kha'Zix         |     5 |     3 |    11 |
+| William         | Lopez           | Team G               |            | AK-47           |    20 |    13 |       | 
+| Karter          | Pena            | Team B               | Mid        | Annie           |     5 |     4 |     4 |
+| Emilia          | Beck            | Team B               | Support    | Soraka          |     1 |     1 |    11 |
+| Ethan           | Erickson        | Team C               | Jungle     | Hecarim         |     2 |     5 |     8 |
+| Chloe           | Thomas          | Team F               |            | USP-S           |    20 |    16 |       | 
+| Emmanuel        | Acevedo         | Team B               | Jungle     | Lee Sin         |     4 |     6 |     5 |
+| Abigail         | Johnson         | Team E               |            | AWP             |    27 |    10 |       | 
+| Liam            | Smith           | Team E               |            | Desert Eagle    |    21 |    13 |       | 
+| Liliana         | Gonzalez        | Team C               | Mid        | Syndra          |     7 |     0 |     8 |
+| Noah            | Anderson        | Team F               |            | Glock-18        |    15 |    22 |       | 
+| Jovanny         | Robles          | Team D               | Mid        | Cassiopeia      |     8 |     1 |     6 |
+| Breanna         | Pham            | Team B               | ADC        | Ashe            |     6 |     3 |     4 |
+| Jacob           | Lee             | Team E               |            | M4A4            |    16 |    17 |       | 
+| Sincere         | Serrano         | Team C               | Top        | Camille         |     4 |     4 |     4 |
+| Logan           | Nelson          | Team H               |            | AWP             |    25 |     9 |       | 
+| Maddison        | Mclean          | Team A               | Jungle     | Elise           |     5 |     3 |    11 |
+| Aubree          | Gonzalez        | Team C               | Support    | Rakan           |     2 |     1 |    10 |
+| Tiffany         | Reed            | Team D               | Top        | Darius          |     7 |     2 |     9 |
+| Harper          | Adams           | Team H               |            | P90             |    18 |    17 |       | 
+| Jayson          | Burns           | Team C               | ADC        | Ezreal          |     9 |     1 |     3 |
+| Aria            | King            | Team G               |            | AWP             |    24 |    11 |       | 
+| Jamison         | Manning         | Team A               | Support    | Leona           |     0 |     3 |    14 |
+| Evelyn          | Brown           | Team G               |            | M4A1-S          |    17 |    19 |       | 
+| Madison         | Garcia          | Team E               |            | P90             |    18 |    12 |       | 
+| Talia           | Davies          | Team D               | ADC        | Sivir           |    10 |     0 |     3 |
+| Sofia           | Wilson          | Team F               |            | AWP             |    26 |     8 |       | 
+| Landon          | Baker           | Team H               |            | Glock-18        |    12 |    22 |       | 
+| Brentley        | King            | Team A               | Mid        | Zoe             |     8 |     1 |     6 |
+| Kaitlyn         | Grant           | Team A               | Top        | Renekton        |     7 |     2 |     9 |
+| Reagan          | Diaz            | Team D               | Support    | Bard            |     0 |     3 |    14 |
+-------------------------------------------------------------------------------------------------------------------
+
+Ratas 2
+-------------------------------------------------------------------------------------------------------------------
+| Ethan           | Erickson        | Team C               | Jungle     | Jarvan IV       |     3 |     4 |     8 |
+| Reagan          | Diaz            | Team D               | Support    | Thresh          |     1 |     4 |    12 |
+| Evelyn          | Brown           | Team G               |            | M4A1-S          |    19 |    21 |       | 
+| Breanna         | Pham            | Team B               | ADC        | Tristana        |     7 |     4 |     3 |
+| Chloe           | Thomas          | Team F               |            | USP-S           |    22 |    18 |       | 
+| Aliyah          | Fisher          | Team A               | ADC        | Kai'Sa          |    12 |     1 |     0 |
+| Aubree          | Gonzalez        | Team C               | Support    | Janna           |     2 |     1 |    10 |
+| Karter          | Pena            | Team B               | Mid        | Azir            |     6 |     3 |     4 |
+| Sincere         | Serrano         | Team C               | Top        | Wukong          |     5 |     5 |     4 |
+| Talia           | Davies          | Team D               | ADC        | Jhin            |    10 |     1 |     2 |
+| Jayson          | Burns           | Team C               | ADC        | Caitlyn         |    10 |     1 |     2 |
+| Abigail         | Johnson         | Team E               |            | AWP             |    30 |    12 |       | 
+| Aaliyah         | Scott           | Team G               |            | Desert Eagle    |    21 |    14 |       | 
+| Ethan           | Taylor          | Team H               |            | M4A4            |    18 |    22 |       | 
+| Mia             | Green           | Team H               |            | AK-47           |    24 |    15 |       | 
+| Liliana         | Gonzalez        | Team C               | Mid        | Anivia          |     8 |     1 |     6 |
+| Aria            | King            | Team G               |            | AWP             |    26 |    13 |       | 
+| Sierra          | Hansen          | Team B               | Top        | Garen           |     2 |     6 |     6 |
+| Jacob           | Lee             | Team E               |            | M4A4            |    18 |    18 |       | 
+| Landon          | Baker           | Team H               |            | Glock-18        |    13 |    24 |       | 
+| Logan           | Nelson          | Team H               |            | AWP             |    27 |    11 |       | 
+| Emilia          | Beck            | Team B               | Support    | Zilean          |     2 |     2 |    11 |
+| Emmanuel        | Acevedo         | Team B               | Jungle     | Graves          |     5 |     5 |     5 |
+| William         | Lopez           | Team G               |            | AK-47           |    22 |    15 |       | 
+| Jovanny         | Robles          | Team D               | Mid        | Viktor          |     7 |     2 |     6 |
+| Jorge           | Haynes          | Team D               | Jungle     | Nunu & Willump  |     4 |     4 |    11 |
+| Oliver          | Hernandez       | Team G               |            | Galil AR        |    16 |    22 |       | 
+| Harper          | Adams           | Team H               |            | P90             |    20 |    19 |       | 
+| Madison         | Garcia          | Team E               |            | P90             |    20 |    10 |       | 
+| Noah            | Anderson        | Team F               |            | Glock-18        |    17 |    24 |       | 
+| Tiffany         | Reed            | Team D               | Top        | Renekton        |     8 |     2 |     8 |
+| Liam            | Smith           | Team E               |            | Desert Eagle    |    23 |    14 |       | 
+| Ethan           | Davis           | Team F               |            | M4A1-S          |    21 |    20 |       | 
+| Avery           | Martinez        | Team F               |            | AK-47           |    24 |    17 |       | 
+| Brentley        | King            | Team A               | Mid        | Orianna         |     6 |     2 |     7 |
+| Kaitlyn         | Grant           | Team A               | Top        | Sett            |     8 |     3 |     7 |
+| Jamison         | Manning         | Team A               | Support    | Lulu            |     2 |     2 |    13 |
+| Sofia           | Wilson          | Team F               |            | SG 553          |    28 |     6 |       | 
+| Maddison        | Mclean          | Team A               | Jungle     | Nidalee         |     4 |     4 |    11 |
+| Emily           | Miller          | Team E               |            | AK-47           |    25 |    16 |       | 
+-------------------------------------------------------------------------------------------------------------------
+
+Ratas 3
+-------------------------------------------------------------------------------------------------------------------
+| Tiffany         | Reed            | Team D               | Top        | Darius          |     7 |     2 |     9 |
+| Jovanny         | Robles          | Team D               | Mid        | Cassiopeia      |     7 |     2 |     6 |
+| Evelyn          | Brown           | Team G               |            | M4A1-S          |    18 |    22 |       | 
+| Sierra          | Hansen          | Team B               | Top        | Poppy           |     3 |     6 |     5 |
+| Madison         | Garcia          | Team E               |            | P90             |    21 |    12 |       | 
+| Harper          | Adams           | Team H               |            | P90             |    21 |    20 |       | 
+| Oliver          | Hernandez       | Team G               |            | Galil AR        |    17 |    23 |       | 
+| Talia           | Davies          | Team D               | ADC        | Senna           |     9 |     1 |     3 |
+| Jayson          | Burns           | Team C               | ADC        | Jinx            |     9 |     2 |     2 |
+| Aubree          | Gonzalez        | Team C               | Support    | Braum           |     2 |     1 |    10 |
+| Emilia          | Beck            | Team B               | Support    | Nami            |     1 |     2 |    12 |
+| Ethan           | Erickson        | Team C               | Jungle     | Graves          |     3 |     5 |     7 |
+| Karter          | Pena            | Team B               | Mid        | Yone            |     6 |     4 |     3 |
+| Jacob           | Lee             | Team E               |            | M4A4            |    20 |    19 |       | 
+| Brentley        | King            | Team A               | Mid        | Syndra          |     5 |     3 |     7 |
+| Ethan           | Davis           | Team F               |            | M4A1-S          |    20 |    22 |       | 
+| Avery           | Martinez        | Team F               |            | M4A4            |    25 |    16 |       | 
+| Logan           | Nelson          | Team H               |            | AWP             |    28 |    12 |       | 
+| Mia             | Green           | Team H               |            | AK-47           |    25 |    16 |       | 
+| Jamison         | Manning         | Team A               | Support    | Soraka          |     1 |     3 |    13 |
+| Sincere         | Serrano         | Team C               | Top        | Fiora           |     5 |     5 |     4 |
+| Aria            | King            | Team G               |            | AWP             |    27 |    14 |       | 
+| Aaliyah         | Scott           | Team G               |            | Desert Eagle    |    22 |    15 |       | 
+| Reagan          | Diaz            | Team D               | Support    | Leona           |     1 |     5 |    12 |
+| Sofia           | Wilson          | Team F               |            | SG 553          |    29 |     7 |       | 
+| Aliyah          | Fisher          | Team A               | ADC        | Varus           |    10 |     3 |     0 |
+| Jorge           | Haynes          | Team D               | Jungle     | Taliyah         |     4 |     4 |    11 |
+| Kaitlyn         | Grant           | Team A               | Top        | Gnar            |     6 |     4 |     8 |
+| Noah            | Anderson        | Team F               |            | Glock-18        |    18 |    23 |       | 
+| Landon          | Baker           | Team H               |            | Glock-18        |    14 |    25 |       | 
+| William         | Lopez           | Team G               |            | AK-47           |    23 |    16 |       | 
+| Liam            | Smith           | Team E               |            | Desert Eagle    |    24 |    16 |       | 
+| Emmanuel        | Acevedo         | Team B               | Jungle     | Rek'Sai         |     4 |     6 |     5 |
+| Chloe           | Thomas          | Team F               |            | USP-S           |    23 |    19 |       | 
+| Emily           | Miller          | Team E               |            | Desert Eagle    |    27 |    14 |       | 
+| Breanna         | Pham            | Team B               | ADC        | Ashe            |     7 |     3 |     4 |
+| Maddison        | Mclean          | Team A               | Jungle     | Kha'Zix         |     2 |     7 |    10 |
+| Abigail         | Johnson         | Team E               |            | AWP             |    32 |    11 |       | 
+| Liliana         | Gonzalez        | Team C               | Mid        | Akali           |     6 |     1 |     8 |
+| Ethan           | Taylor          | Team H               |            | P90             |    19 |    23 |       | 
+-------------------------------------------------------------------------------------------------------------------
+
+All players
+-------------------------------------------------------------------------------------------------------------------
+| Liliana         | Gonzalez        | Team C               | Mid        | Syndra          |    17 |     6 |    25 |
+| Aliyah          | Fisher          | Team A               | ADC        | Jinx            |    20 |     6 |    20 |
+| Talia           | Davies          | Team D               | ADC        | Sivir           |    20 |     6 |    20 |
+| Brentley        | King            | Team A               | Mid        | Zoe             |    18 |     7 |    23 |
+| Jovanny         | Robles          | Team D               | Mid        | Cassiopeia      |    18 |     7 |    23 |
+| Aubree          | Gonzalez        | Team C               | Support    | Rakan           |    12 |     7 |    27 |
+| Jayson          | Burns           | Team C               | ADC        | Ezreal          |    19 |     7 |    20 |
+| Emilia          | Beck            | Team B               | Support    | Soraka          |    11 |     7 |    28 |
+| Tiffany         | Reed            | Team D               | Top        | Darius          |    17 |     8 |    26 |
+| Kaitlyn         | Grant           | Team A               | Top        | Renekton        |    17 |     8 |    26 |
+| Jorge           | Haynes          | Team D               | Jungle     | Kha'Zix         |    15 |     9 |    28 |
+| Maddison        | Mclean          | Team A               | Jungle     | Elise           |    15 |     9 |    28 |
+| Reagan          | Diaz            | Team D               | Support    | Bard            |    10 |     9 |    31 |
+| Jamison         | Manning         | Team A               | Support    | Leona           |    10 |     9 |    31 |
+| Breanna         | Pham            | Team B               | ADC        | Ashe            |    16 |     9 |    21 |
+| Karter          | Pena            | Team B               | Mid        | Annie           |    15 |    10 |    21 |
+| Sincere         | Serrano         | Team C               | Top        | Camille         |    14 |    10 |    21 |
+| Ethan           | Erickson        | Team C               | Jungle     | Hecarim         |    12 |    11 |    25 |
+| Sierra          | Hansen          | Team B               | Top        | Malphite        |    13 |    11 |    23 |
+| Emmanuel        | Acevedo         | Team B               | Jungle     | Lee Sin         |    14 |    12 |    22 |
+| Sofia           | Wilson          | Team F               |            | AWP             |    63 |    51 |       | 
+| Abigail         | Johnson         | Team E               |            | AWP             |    64 |    53 |       | 
+| Logan           | Nelson          | Team H               |            | AWP             |    62 |    52 |       | 
+| Aria            | King            | Team G               |            | AWP             |    61 |    54 |       | 
+| Mia             | Green           | Team H               |            | AK-47           |    59 |    56 |       | 
+| Emily           | Miller          | Team E               |            | AK-47           |    60 |    57 |       | 
+| Liam            | Smith           | Team E               |            | Desert Eagle    |    58 |    56 |       | 
+| Aaliyah         | Scott           | Team G               |            | Desert Eagle    |    56 |    55 |       | 
+| William         | Lopez           | Team G               |            | AK-47           |    57 |    56 |       | 
+| Avery           | Martinez        | Team F               |            | AK-47           |    59 |    58 |       | 
+| Madison         | Garcia          | Team E               |            | P90             |    55 |    55 |       | 
+| Chloe           | Thomas          | Team F               |            | USP-S           |    57 |    59 |       | 
+| Ethan           | Davis           | Team F               |            | M4A1-S          |    56 |    61 |       | 
+| Harper          | Adams           | Team H               |            | P90             |    55 |    60 |       | 
+| Jacob           | Lee             | Team E               |            | M4A4            |    53 |    60 |       | 
+| Evelyn          | Brown           | Team G               |            | M4A1-S          |    54 |    62 |       | 
+| Ethan           | Taylor          | Team H               |            | M4A4            |    53 |    63 |       | 
+| Oliver          | Hernandez       | Team G               |            | Galil AR        |    51 |    63 |       | 
+| Noah            | Anderson        | Team F               |            | Glock-18        |    52 |    65 |       | 
+| Landon          | Baker           | Team H               |            | Glock-18        |    49 |    65 |       | 
+-------------------------------------------------------------------------------------------------------------------
+
+All teams
+--------------------------------
+|     1 | Team G               |
+|     2 | Team H               |
+|     3 | Team F               |
+|     4 | Team A               |
+|     5 | Team B               |
+|     6 | Team E               |
+|     7 | Team D               |
+|     8 | Team C               |
+--------------------------------
+
