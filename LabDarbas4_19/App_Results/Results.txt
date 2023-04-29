@@ -1,3 +1,31 @@
+New CS TEAM
+-------------------------------------------------------------------------------------------------------------------
+| Aaliyah         | Scott           | Team G               |            | Desert Eagle    |    19 |    12 |       | 
+| Mia             | Green           | Team H               |            | AK-47           |    22 |    13 |       | 
+| Emily           | Miller          | Team E               |            | AK-47           |    23 |    14 |       | 
+| William         | Lopez           | Team G               |            | AK-47           |    20 |    13 |       | 
+| Abigail         | Johnson         | Team E               |            | AWP             |    27 |    10 |       | 
+| Liam            | Smith           | Team E               |            | Desert Eagle    |    21 |    13 |       | 
+| Logan           | Nelson          | Team H               |            | AWP             |    25 |     9 |       | 
+| Aria            | King            | Team G               |            | AWP             |    24 |    11 |       | 
+| Madison         | Garcia          | Team E               |            | P90             |    18 |    12 |       | 
+| Sofia           | Wilson          | Team F               |            | AWP             |    26 |     8 |       | 
+-------------------------------------------------------------------------------------------------------------------
+
+New LOL TEAM
+-------------------------------------------------------------------------------------------------------------------
+| Aliyah          | Fisher          | Team A               | ADC        | Jinx            |    10 |     0 |     3 |
+| Liliana         | Gonzalez        | Team C               | Mid        | Syndra          |     7 |     0 |     8 |
+| Jovanny         | Robles          | Team D               | Mid        | Cassiopeia      |     8 |     1 |     6 |
+| Breanna         | Pham            | Team B               | ADC        | Ashe            |     6 |     3 |     4 |
+| Tiffany         | Reed            | Team D               | Top        | Darius          |     7 |     2 |     9 |
+| Jayson          | Burns           | Team C               | ADC        | Ezreal          |     9 |     1 |     3 |
+| Talia           | Davies          | Team D               | ADC        | Sivir           |    10 |     0 |     3 |
+| Brentley        | King            | Team A               | Mid        | Zoe             |     8 |     1 |     6 |
+| Kaitlyn         | Grant           | Team A               | Top        | Renekton        |     7 |     2 |     9 |
+| Karter          | Pena            | Team B               | Mid        | Azir            |     6 |     3 |     4 |
+-------------------------------------------------------------------------------------------------------------------
+
 Ratas 1
 -------------------------------------------------------------------------------------------------------------------
 | Aaliyah         | Scott           | Team G               |            | Desert Eagle    |    19 |    12 |       | 
