@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LabDarbas4_19.App_Class.CSPlayer">
+    <Position X="5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIABAAQgIAQECAAAAAAAAgAEAQAgAAAAAAAAQAA=</HashCode>
+      <FileName>App_Class\CSPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabDarbas4_19.App_Class.EmptyException">
+    <Position X="5.25" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>App_Class\EmptyException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabDarbas4_19.App_Class.InOutUtils">
+    <Position X="3" Y="8.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAAAAABQgAAAAAAAAAQEAAEAAQAEAAAAAAEAQA=</HashCode>
+      <FileName>App_Class\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabDarbas4_19.App_Class.LoLPlayer">
+    <Position X="9.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIABAAQgIAQkCAAAAAgAAgAAAQAgAAIAAAAAQAA=</HashCode>
+      <FileName>App_Class\LoLPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabDarbas4_19.App_Class.Player">
+    <Position X="7.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIABAAQgAAQEgAAAAAQABgAAAYAAEAAAAEAAQAA=</HashCode>
+      <FileName>App_Class\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LabDarbas4_19.App_Class.Round">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQFEAAAQAAAAiAAABAAgAAAAAAAA=</HashCode>
+      <FileName>App_Class\Round.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabDarbas4_19.App_Class.TaskUtils">
+    <Position X="3" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAEAAAAAAAKwAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Class\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabDarbas4_19.WebInterface">
+    <Position X="0.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACDNghAAAQAAIAAAAgABpCMMA8YAGAAACIgAcAAAA=</HashCode>
+      <FileName>App_Class\WebInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LabDarbas4_19.App_Class.IFilter&lt;ICriteria&gt;">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Class\IFilter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LabDarbas4_19.App_Class.IMergable&lt;T&gt;">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Class\IMergable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LabDarbas4_19.App_Class.ITableHeader">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Class\ITableHeader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
